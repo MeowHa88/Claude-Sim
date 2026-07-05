@@ -1,8 +1,8 @@
 # Font Dependencies
 
-Claude-Sim prioritizes comfortable Chinese reading in Obsidian while keeping Codex UI layout stable with system UI fonts and code in a non-serif monospace stack.
+Claude-Sim prioritizes comfortable Chinese reading while keeping code in a non-serif monospace stack.
 
-## Preferred Obsidian UI/Text Fonts
+## Preferred UI/Text Fonts
 
 ```text
 LXGW WenKai Screen
@@ -30,10 +30,3 @@ ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace
 
 This keeps code in a non-serif monospace font.
 
-## Codex UI Font Stack
-
-```text
--apple-system, BlinkMacSystemFont, 'SF Pro Text', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif
-```
-
-Codex uses a system sans-serif UI stack to avoid layout issues in settings pages and status/progress output.
